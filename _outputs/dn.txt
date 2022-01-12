@@ -4,7 +4,7 @@ Dadra and Nagar Haveli and Daman and Diu data from your current input.
 ┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━╇━━━━━━━━━━━╇━━━━━━━━━━┩                                                                                                   
 │ Dadra and Nagar Haveli and Daman and Diu │     10683 │     10679 │        4 │                                                                                                   
 └──────────────────────────────────────────┴───────────┴───────────┴──────────┘                                                                                                   
-Dadra and Nagar Haveli and Daman and Diu last updated data from <data.covid19bharat.org>                                                                                          
+Dadra and Nagar Haveli and Daman and Diu last updated data from <aviskumar.github.io/covid19bharat_data>                                                                           
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━┳━━━━━━━━━━━━━━━━┳━━━━━━━━┓                                                                         
 ┃ district                                 ┃ confirmed ┃ recovered ┃ deceased ┃ migrated_other ┃ active ┃                                                                         
 ┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━╇━━━━━━━━━━━╇━━━━━━━━━━╇━━━━━━━━━━━━━━━━╇━━━━━━━━┩                                                                         
