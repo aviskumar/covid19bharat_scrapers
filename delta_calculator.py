@@ -37,7 +37,7 @@ def draw_table(data, info, console):
 
 
 def state_level_delta(name, live_data, console):
-    DASHBOARD_URL = 'https://data.covid19bharat.org/csv/latest/state_wise.csv'
+    DASHBOARD_URL = 'https://aviskumar.github.io/covid19bharat_data/csv/latest/state_wise.csv'
     state_data = pd.read_csv(DASHBOARD_URL).set_index('State').loc[name]
     state_data.index = state_data.index.str.lower()
     state_code = state_data['state_code']
@@ -77,7 +77,7 @@ class DeltaCalculator:
         """
         :rtype: object
         """
-        decoded_content = requests.request("get", 'https://data.covid19bharat.org/csv/latest/district_wise.csv').content.decode('utf-8')
+        decoded_content = requests.request("get", 'https://aviskumar.github.io/covid19bharat_data/csv/latest/district_wise.csv').content.decode('utf-8')
         csv_reader = csv.reader(decoded_content.splitlines(), delimiter=',')
         rows = list(csv_reader)
         for index, row in enumerate(rows):
