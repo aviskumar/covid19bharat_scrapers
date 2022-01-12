@@ -4,7 +4,7 @@ Ladakh data from your current input.
 ┡━━━━━━━━━━╇━━━━━━━━━━━╇━━━━━━━━━━━╇━━━━━━━━━━┩                                                                                                                                   
 │ Ladakh   │     21669 │     21143 │      215 │                                                                                                                                   
 └──────────┴───────────┴───────────┴──────────┘                                                                                                                                   
-Ladakh last updated data from <data.covid19bharat.org>                                                                                                                            
+Ladakh last updated data from <aviskumar.github.io/covid19bharat_data>                                                                                                             
 ┏━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━━┳━━━━━━━━━━┳━━━━━━━━━━━━━━━━┳━━━━━━━━┓                                                                                                         
 ┃ district ┃ confirmed ┃ recovered ┃ deceased ┃ migrated_other ┃ active ┃                                                                                                         
 ┡━━━━━━━━━━╇━━━━━━━━━━━╇━━━━━━━━━━━╇━━━━━━━━━━╇━━━━━━━━━━━━━━━━╇━━━━━━━━┩                                                                                                         
